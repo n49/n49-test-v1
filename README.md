@@ -2,7 +2,8 @@
 
 # Instructions
 
-Clone this repository locally and make a pull request
+This is a fork of create-react-app - https://github.com/facebook/create-react-app, follow the instructions from the link
+Clone this repository locally, make required changes and make a pull request
 
 Use any public api listed here -https://github.com/public-apis/public-apis . Create a backend with programming language of your choice and construct API methods which will be used by the react frontend. Note - you should NOT directly use the public API on your frontend, instead make requests to the public API through your backend and format the API response based on your convenience and use that in your frontend. 
 
